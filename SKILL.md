@@ -1,11 +1,10 @@
 ---
 name: organizational-capability-assessment
-description: Assess whether an organization's capabilities are suited for a specific
-  innovation opportunity using the Resources-Processes-Priorities (RPP) framework.
+description: Assess whether an organization's capabilities are suited for a specific innovation opportunity using the Resources-Processes-Priorities (RPP) framework.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - organizational-capability-assessment
 - structure
