@@ -4,7 +4,7 @@ description: Assess whether an organization's capabilities are suited for a spec
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4618
+  version: 1.0.4619
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - organizational-capability-assessment
